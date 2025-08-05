@@ -7,14 +7,6 @@ A responsive and interactive web application that helps students calculate their
 
 ---
 
-## 📸 Screenshots
-
-### 🌞 Light Mode
-![Light Mode Screenshot](https://your-screenshot-link.com/light.jpg)
-
-### 🌙 Dark Mode
-![Dark Mode Screenshot](https://your-screenshot-link.com/dark.jpg)
-
 *📌 (You can upload screenshots in your repo and replace these links.)*
 
 ---
@@ -36,7 +28,3 @@ A responsive and interactive web application that helps students calculate their
 
 ---
 
-## 📂 How to Use Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sarankumar-dot/CGPA-GPA-CALACULATOR.git
