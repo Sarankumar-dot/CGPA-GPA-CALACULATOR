@@ -1,7 +1,42 @@
-website link - https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/  
+# 🎓 CGPA & GPA Calculator Web Application
 
-GPA & CGPA Calculator – Academic Performance Tracker
+A responsive and interactive web application that helps students calculate their **semester GPA** and **cumulative CGPA** effortlessly. Built with HTML, CSS, and JavaScript, it features a dynamic theme toggle (light/dark mode) and user-friendly input forms.
 
-This project is a modern, web-based GPA and CGPA calculator designed to assist students in accurately tracking and projecting their academic performance. Developed using HTML, CSS, and JavaScript, the application allows users to input grades and credit values for individual subjects per semester, based on a 10-point grading system (O = 10, A+ = 9, A = 8, B+ = 7, B = 6, C = 5). It dynamically calculates the current semester GPA and enables users to update their cumulative CGPA by incorporating previous academic records. The interface features a visually appealing, responsive design with support for both dark and light modes, a vibrant gradient background, and user-friendly controls. This project combines functionality and style, offering an intuitive tool for academic analysis and planning.
+## 🚀 Live Demo
+👉 [Click here to use the calculator](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
 
+---
 
+## 📸 Screenshots
+
+### 🌞 Light Mode
+![Light Mode Screenshot](https://your-screenshot-link.com/light.jpg)
+
+### 🌙 Dark Mode
+![Dark Mode Screenshot](https://your-screenshot-link.com/dark.jpg)
+
+*📌 (You can upload screenshots in your repo and replace these links.)*
+
+---
+
+## ✨ Features
+- ✅ Enter number of subjects and input grades & credits
+- ✅ Automatically calculates Semester GPA
+- ✅ Update previous CGPA and credits to get current CGPA
+- 🌗 Toggle between Light and Dark themes
+- 📱 Responsive design for mobile and desktop
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- **AOS (Animate On Scroll) Library** *(optional for animations)*
+
+---
+
+## 📂 How to Use Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sarankumar-dot/CGPA-GPA-CALACULATOR.git
